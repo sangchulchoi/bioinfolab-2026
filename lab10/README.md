@@ -1,0 +1,1 @@
+wget -O data/test.fa https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=nuccore&id=KU739560.1&rettype=fasta&retmode=text
